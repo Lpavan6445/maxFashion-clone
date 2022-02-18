@@ -41,15 +41,15 @@ Landmark Group has multiple retail brands, including Centrepoint, Babyshop, Spla
 * HTML
 * CSS 
 * JAVASCRIPT
-* TAILWIND CSS
 
 ## Added Functionalities
 
 ### The application displays contains virtual products and contact information. User can do the following:
 
 * Login or SignUp Page.
-* Browse available products.
-* Browse available Sections.
+* Product Page.
+* Add to bag.
+* Payment Page.
 
 
 
